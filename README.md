@@ -1,4 +1,5 @@
 ![workflow](https://github.com/riquellopes/fast-example/actions/workflows/python-app.yml/badge.svg)
+
 Fast example
 ============
 
